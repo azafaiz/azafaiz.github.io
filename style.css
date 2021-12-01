@@ -1,0 +1,16 @@
+.jumbotron {
+  padding-top: 8rem;
+  background-color: #98e7c0;
+}
+#projects {
+  background-color: #98e7c0;
+}
+footer {
+  background-color: #02b982;
+}
+section {
+  padding-top: 5rem;
+}
+.navbar-brand {
+  font-size: 25px;
+}
